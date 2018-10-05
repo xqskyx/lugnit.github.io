@@ -3,18 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://xqskyx.github.io/afterread/%E7%99%BE%E5%B9%B4%E5%AD%A4%E7%8B%AC0.1/</loc>
+    <loc>https://xqskyx.github.io/readafter/%E7%99%BE%E5%B9%B4%E5%AD%A4%E7%8B%AC0.1/</loc>
     <lastmod>2018-10-04T16:05:02+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://xqskyx.github.io/afterread/</loc>
-    <lastmod>2018-10-04T16:05:02+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://xqskyx.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xqskyx.github.io/readafter/</loc>
+    <lastmod>2018-10-04T16:05:02+08:00</lastmod>
     <priority>0</priority>
   </url>
   
